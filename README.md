@@ -1,0 +1,2 @@
+# BasicRankingSystem_AltVer
+BASIC SCORE SYSTEM USING VECTORS.
